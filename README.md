@@ -88,7 +88,7 @@ If any errors occur during gameplay, an error message may be displayed. Check th
 This Crazy Eights game currently supports only two players. The game does not include advanced features such as computer-controlled opponents or additional player support. 
 
 **Feedback & Support**  
-For feedback or support regarding the Crazy Eights game, please contact the developer, Kyle Kapoor, or refer to the source code for more information.
+For feedback or support regarding the Crazy Eights game, please contact the developer or refer to the source code for more information.
 
 **Conclusion**  
 The Crazy Eights game provides an exciting and challenging card game experience. Use your strategy and card-playing skills to outsmart your opponents and be the first to eliminate all of your cards. Enjoy playing my game, Crazy Eights!
